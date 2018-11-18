@@ -1,0 +1,493 @@
+Script started on Thu 12 Jul 2018 11:33:53 PM PDT
+[igolovko@hills cs131A]$  ./lab5.1.py
+
+------------------------------
+File: armenian_utf16
+------------------------------
+Number of lines: 4
+Number of words: 20
+Number of characters: 119
+
+Ten most frequent words:
+այեպհս 2
+կ 2
+ւզհի 2
+աեցեհի 1
+իմ 1
+լավ 1
+ւղիե 1
+լավարար 1
+կյաեբս 1
+չտայի 1
+
+Աեցեհի իմ լավ ?ւղիե լավարար,
+Կյաեբս չտայի կասկածի մհգիե...
+Այեպհս կ?ւզհի մհկե իեծ ?ավատր,
+Այեպհս կ?ւզհի ?ավատալ մհկիե։
+
+
+
+------------------------------
+File: chinese_utf16
+------------------------------
+Number of lines: 14
+Number of words: 63
+Number of characters: 634
+
+Ten most frequent words:
+calis 2
+mouse 2
+简介 1
+是一个专为语文教学而设计的电脑软件 1
+在当今这个电脑时代 1
+电脑辅助教学 1
+是一个极为教师与学生所喜欢的教学媒体 1
+因为教学须要注重个别化 1
+每一个学生有其不同的程度 1
+如何有效地针对每一个学生给予不同的反应及立刻的指正 1
+
+简介
+
+是一个专为语文教学而设计的电脑软件。在当今这个电脑时代，＂电脑辅助教学＂是一个极为教师与学生所喜欢的教学媒体。
+
+   因为教学须要注重个别化，每一个学生有其不同的程度，如何有效地针对每一个学生给予不同的反应及立刻的指正，以及最后不同的记分，只有仰赖＂电脑＂去完成。  CALIS 正是扮演了这个角色。不仅减轻了老师的负担与时间，更能兼顾到每一个学生之需要。除此之外，CALIS 提供了生动的学习环境，所以更能激发学生的学习兴趣与动机。
+  
+     是 的延伸，涵盖了更多的功能。比如：运用视窗 及滑鼠 (mouse)，让教师及学生更为有效地操作；＂拼音更正 ＂提供适当的暗示，给予学生思考及改正；在编排课程方面，教师只须在显现的各类视窗中，输入所设计的教材內容〔课程內容、问题、解答、或是参考资料〕。电脑立即自动产生 教师可以不须具备太多的电脑常识或编写语言 即可编著课程，让学生使用。
+
+  
+更可以让教师利用激光影碟 (laserdisc)及录像机所产生的生动画面融入教学，让课程更为生动活泼。同时WinCALIS提供了不同语言的键盘输入，用者可以很容易地同时使用多种语言，只需透过滑鼠(mouse)来选择即可从一种语言到另一种语言。
+
+ 由于 具备了容易及灵活使用的本质，使得它已经成为 90 年代电脑辅助教学(CAI)的标准。
+
+    的第二具备了中文文书处理的功能。它不仅可以编写，也可以印出。您手边的这份文件即是用CALIS 编印出来的。
+
+
+
+------------------------------
+File: chinese_utf8
+------------------------------
+Number of lines: 14
+Number of words: 62
+Number of characters: 632
+
+Ten most frequent words:
+calis 3
+简介 1
+是一个专为语文教学而设计的电脑软件 1
+在当今这个电脑时代 1
+电脑辅助教学 1
+是一个极为教师与学生所喜欢的教学媒体 1
+因为教学须要注重个别化 1
+每一个学生有其不同的程度 1
+如何有效地针对每一个学生给予不同的反应及立刻的指正 1
+以及最后不同的记分 1
+
+简介
+
+ 是一个专为语文教学而设计的电脑软件。在当今这个电脑时代，＂电脑辅助教学＂是一个极为教师与学生所喜欢的教学媒体。
+
+   因为教学须要注重个别化，每一个学生有其不同的程度，如何有效地针对每一个学生给予不同的反应及立刻的指正，以及最后不同的记分，只有仰赖＂电脑＂去完成。  CALIS 正是扮演了这个角色。不仅减轻了老师的负担与时间，更能兼顾到每一个学生之需要。除此之外，CALIS 提供了生动的学习环境，所以更能激发学生的学习兴趣与动机。
+  
+ 是 CALIS 的延伸，涵盖了更多的功能。比如：运用视窗 及滑鼠，让教师及学生更为有效地操作；＂拼音更正 ＂ 提供适当的暗示，给予学生思考及改正；在编排课程方面，教师只须在显现的各类视窗中，输入所设计的教材內容〔课程內容、问题、解答、或是参考资料〕。电脑立即自动产生  ，教师可以不须具备太多的电脑常识或编写语言  即可编著课程，让学生使用。
+
+  
+更可以让教师利用激光影碟 及录像机所产生的生动画面融入教学，让课程更为生动活泼。同时WinCALIS提供了不同语言的键盘输入，用者可以很容易地同时使用多种语言，只需透过滑鼠(mouse)来选择即可从一种语言到另一种语言。
+
+ 由于 CALIS具备了容易及灵活使用的本质，使得它已经成为 90 年代电脑辅助教学(CAI)的标准。
+
+    CALIS的第二具备了中文文书处理的功能。它不仅可以编写，也可以印出。您手边的这份文件即是用CALIS 编印出来的。
+
+
+
+------------------------------
+File: danish_utf16
+------------------------------
+Number of lines: 18
+Number of words: 171
+Number of characters: 1133
+
+Ten most frequent words:
+og 10
+han 5
+h 4
+c 4
+andersens 4
+var 3
+der 3
+den 3
+sig 3
+det 2
+
+ Foto det formodede fødehus, hjørnet Hans Jensensstræde og Bangs Boder. (H. C. Andersens Hus, Odense).
+
+BARNDOMSOMGIVELSERNE
+
+ Skønt H. C. Andersens barndomsomgivelser var meget fattige, blev de i hans rige fantasi solbeskinnede.  Der findes en mandtalsliste fra nogle få år 
+ 
+H. C. Andersens fødsel. Den er 1801
+ og den giver klare oplysninger om, hvor mange der boede Odense og hvad de var
+ beskæftigede. Den omfatter 1199 husstande. Hvis man fordeler disse erhverv,
+ får man 102 embeds- og bestillingsmænd, 26 officerer, 12 der beskæftiger sig med
+ immaterielle erhverv, 81 som lever handel, 36 værtshusholdere, 460 håndværkere, 39
+ avlsmænd og urtemænd, 121 soldater, 97 daglejere, 139 enlige kvinder og
+ almissemedlemmer, 29 pensionister og rentenydere.
+    H. C. Andersens forældre tilhørte samfundets laveste lag. Faderen var friskomager, og
+ når han meldte sig militærtjeneste Napoleons side, har det nok ikke så meget været
+ idealisme som praktisk økonomi. For at sikre sig en soldats værgeløn. Han kom ikke
+ længere end Holsten. Han fik høj feber og måtte sendes hjem. Da han kom hjem,
+ forværredes sygdommen og han døde.
+
+
+
+------------------------------
+File: korean_utf16
+------------------------------
+Number of lines: 22
+Number of words: 130
+Number of characters: 593
+
+Ten most frequent words:
+극지탐험 2
+체계적 2
+에베레스트를 2
+한국극지협회가 2
+이 2
+협회는 2
+것으로 2
+중앙일보 1
+사건 1
+사회 1
+
+중앙일보 - 사건/사회 - 극지탐험　협회결...
+극지탐험　협회결성　체계적　연구 
+
+　지구상의　３대　극지라　불리는　남극·북극·에베레스트를　한번이라
+도　다녀와야　정회원으로　들어갈　수　있는　한국극지협회가　발족된다
+．윤석순（한·러시아극동협회　상임고문）씨과　홍석하（사람과　산　발
+행인）씨가　극지탐험과　이곳에서의　학술연구를　체계적　으로　해보자
+는데　뜻을　같이하고　협회결성에　나섰다．
+　이　협회는　지난　１６일　호텔신라에서　２０여명의　준비위원이　참
+석한　가운데　준비위원회를　가졌으며　내년　３월　정식　출범한다．
+　이　협회에는　３극오지를　모두　밟은　세계적인　산악인　허영호씨를
+비롯해　에베레스트를　올랐던　엄홍길·박영석·정승권씨　등　국내의　
+저명한　산악인들이　회원으로　참여할　것으로　보인다．
+　극지협회는　극지탐험가는　물론　학계·경제계인사들도　참가시킬　계
+획이다．　단순한　탐험차원을　넘어　지구상에　마지막　남은　자원의　
+보고인　극지에서의　연구활동도　하겠다는　의미다．
+　한국극지협회가　발족하면　우리　극지탐험이　체계화될　것으로　기대
+되고있다．협회는　극지관련자료를　데이터베이스로　축적해　오지탐험가
+들에게　제공할　계획이다．
+
+입력시간 95/11/17 20:55 KST
+ⓒ 중앙일보사 1995
+
+
+
+------------------------------
+File: turkish_utf8
+------------------------------
+Number of lines: 6
+Number of words: 55
+Number of characters: 400
+
+Ten most frequent words:
+hep 3
+hakan 2
+dört 2
+yukarda 1
+mavi 1
+gök 1
+asağıda 1
+yağız 1
+yer 1
+yaratıldıkta 1
+
+Yukarda mavi gök, asağıda yağız yer yaratıldıkta; ikisinin arasında insan
+oğlu yaratılmış. İnsan oğulları üzerine ecdadım Bumın hakan, İstemi hakan
+tahta oturmuş; oturarak Türk milletinin ülkesini, türesini, idare edivermiş,
+tanzim edivermis. Dört taraf hep düşman imiş. Asker sevk edip dört taraftaki
+kavmi hep (itaati altına) almış hep muti kılmış. Başlılara baş eğdirmiş,
+dizlilere diz çöktürmüş.
+
+
+
+------------------------------
+File: vietnamese_utf8
+------------------------------
+Number of lines: 11
+Number of words: 127
+Number of characters: 557
+
+Ten most frequent words:
+bần 11
+cũng 4
+không 4
+có 4
+giời 4
+là 3
+và 3
+thì 3
+quí 3
+một 2
+
+Bần chỉ là một anh nghèo xác, ngày ngày lang-thang 
+khắp xóm này qua xóm khác xin ăn. Quần áo 
+rách-mướp Bần cũng chả coi sao, chân không có giầy và 
+đầu cũng chẳng có mũ. Giời nắng hay giời mưa Bần 
+không bao giờ quan-tâm. Một ngưòi như Bần thì ai cũng 
+tưởng là không còn có gì là quí-vât nữa. Thế nhưng ta 
+nhầm vì Bần có cái quạt mo, Bần quí lắm. Bần quí và giữ 
+luôn không rời bỏ bao giờ. Giời nắng thì Bần che đầu, 
+giời mưa Bần cũng nhờ nó mà đỡ ướt. Muốn ngồi Bần 
+dùng làm chiếu và đêm đến các chú muỗi vo-ve thì Bần 
+dùng để dánh đuổi các chú ấy.
+
+
+[igolovko@hills cs131A]$ python3 lab5.1.py
+
+------------------------------
+File: armenian_utf16
+------------------------------
+Number of lines: 4
+Number of words: 20
+Number of characters: 119
+
+Ten most frequent words:
+այեպհս 2
+կ 2
+ւզհի 2
+աեցեհի 1
+իմ 1
+լավ 1
+ւղիե 1
+լավարար 1
+կյաեբս 1
+չտայի 1
+
+Աեցեհի իմ լավ ?ւղիե լավարար,
+Կյաեբս չտայի կասկածի մհգիե...
+Այեպհս կ?ւզհի մհկե իեծ ?ավատր,
+Այեպհս կ?ւզհի ?ավատալ մհկիե։
+
+
+
+------------------------------
+File: chinese_utf16
+------------------------------
+Number of lines: 14
+Number of words: 63
+Number of characters: 634
+
+Ten most frequent words:
+calis 2
+mouse 2
+简介 1
+是一个专为语文教学而设计的电脑软件 1
+在当今这个电脑时代 1
+电脑辅助教学 1
+是一个极为教师与学生所喜欢的教学媒体 1
+因为教学须要注重个别化 1
+每一个学生有其不同的程度 1
+如何有效地针对每一个学生给予不同的反应及立刻的指正 1
+
+简介
+
+是一个专为语文教学而设计的电脑软件。在当今这个电脑时代，＂电脑辅助教学＂是一个极为教师与学生所喜欢的教学媒体。
+
+   因为教学须要注重个别化，每一个学生有其不同的程度，如何有效地针对每一个学生给予不同的反应及立刻的指正，以及最后不同的记分，只有仰赖＂电脑＂去完成。  CALIS 正是扮演了这个角色。不仅减轻了老师的负担与时间，更能兼顾到每一个学生之需要。除此之外，CALIS 提供了生动的学习环境，所以更能激发学生的学习兴趣与动机。
+  
+     是 的延伸，涵盖了更多的功能。比如：运用视窗 及滑鼠 (mouse)，让教师及学生更为有效地操作；＂拼音更正 ＂提供适当的暗示，给予学生思考及改正；在编排课程方面，教师只须在显现的各类视窗中，输入所设计的教材內容〔课程內容、问题、解答、或是参考资料〕。电脑立即自动产生 教师可以不须具备太多的电脑常识或编写语言 即可编著课程，让学生使用。
+
+  
+更可以让教师利用激光影碟 (laserdisc)及录像机所产生的生动画面融入教学，让课程更为生动活泼。同时WinCALIS提供了不同语言的键盘输入，用者可以很容易地同时使用多种语言，只需透过滑鼠(mouse)来选择即可从一种语言到另一种语言。
+
+ 由于 具备了容易及灵活使用的本质，使得它已经成为 90 年代电脑辅助教学(CAI)的标准。
+
+    的第二具备了中文文书处理的功能。它不仅可以编写，也可以印出。您手边的这份文件即是用CALIS 编印出来的。
+
+
+
+------------------------------
+File: chinese_utf8
+------------------------------
+Number of lines: 14
+Number of words: 62
+Number of characters: 632
+
+Ten most frequent words:
+calis 3
+简介 1
+是一个专为语文教学而设计的电脑软件 1
+在当今这个电脑时代 1
+电脑辅助教学 1
+是一个极为教师与学生所喜欢的教学媒体 1
+因为教学须要注重个别化 1
+每一个学生有其不同的程度 1
+如何有效地针对每一个学生给予不同的反应及立刻的指正 1
+以及最后不同的记分 1
+
+简介
+
+ 是一个专为语文教学而设计的电脑软件。在当今这个电脑时代，＂电脑辅助教学＂是一个极为教师与学生所喜欢的教学媒体。
+
+   因为教学须要注重个别化，每一个学生有其不同的程度，如何有效地针对每一个学生给予不同的反应及立刻的指正，以及最后不同的记分，只有仰赖＂电脑＂去完成。  CALIS 正是扮演了这个角色。不仅减轻了老师的负担与时间，更能兼顾到每一个学生之需要。除此之外，CALIS 提供了生动的学习环境，所以更能激发学生的学习兴趣与动机。
+  
+ 是 CALIS 的延伸，涵盖了更多的功能。比如：运用视窗 及滑鼠，让教师及学生更为有效地操作；＂拼音更正 ＂ 提供适当的暗示，给予学生思考及改正；在编排课程方面，教师只须在显现的各类视窗中，输入所设计的教材內容〔课程內容、问题、解答、或是参考资料〕。电脑立即自动产生  ，教师可以不须具备太多的电脑常识或编写语言  即可编著课程，让学生使用。
+
+  
+更可以让教师利用激光影碟 及录像机所产生的生动画面融入教学，让课程更为生动活泼。同时WinCALIS提供了不同语言的键盘输入，用者可以很容易地同时使用多种语言，只需透过滑鼠(mouse)来选择即可从一种语言到另一种语言。
+
+ 由于 CALIS具备了容易及灵活使用的本质，使得它已经成为 90 年代电脑辅助教学(CAI)的标准。
+
+    CALIS的第二具备了中文文书处理的功能。它不仅可以编写，也可以印出。您手边的这份文件即是用CALIS 编印出来的。
+
+
+
+------------------------------
+File: danish_utf16
+------------------------------
+Number of lines: 18
+Number of words: 171
+Number of characters: 1133
+
+Ten most frequent words:
+og 10
+han 5
+h 4
+c 4
+andersens 4
+var 3
+der 3
+den 3
+sig 3
+det 2
+
+ Foto det formodede fødehus, hjørnet Hans Jensensstræde og Bangs Boder. (H. C. Andersens Hus, Odense).
+
+BARNDOMSOMGIVELSERNE
+
+ Skønt H. C. Andersens barndomsomgivelser var meget fattige, blev de i hans rige fantasi solbeskinnede.  Der findes en mandtalsliste fra nogle få år 
+ 
+H. C. Andersens fødsel. Den er 1801
+ og den giver klare oplysninger om, hvor mange der boede Odense og hvad de var
+ beskæftigede. Den omfatter 1199 husstande. Hvis man fordeler disse erhverv,
+ får man 102 embeds- og bestillingsmænd, 26 officerer, 12 der beskæftiger sig med
+ immaterielle erhverv, 81 som lever handel, 36 værtshusholdere, 460 håndværkere, 39
+ avlsmænd og urtemænd, 121 soldater, 97 daglejere, 139 enlige kvinder og
+ almissemedlemmer, 29 pensionister og rentenydere.
+    H. C. Andersens forældre tilhørte samfundets laveste lag. Faderen var friskomager, og
+ når han meldte sig militærtjeneste Napoleons side, har det nok ikke så meget været
+ idealisme som praktisk økonomi. For at sikre sig en soldats værgeløn. Han kom ikke
+ længere end Holsten. Han fik høj feber og måtte sendes hjem. Da han kom hjem,
+ forværredes sygdommen og han døde.
+
+
+
+------------------------------
+File: korean_utf16
+------------------------------
+Number of lines: 22
+Number of words: 130
+Number of characters: 593
+
+Ten most frequent words:
+극지탐험 2
+체계적 2
+에베레스트를 2
+한국극지협회가 2
+이 2
+협회는 2
+것으로 2
+중앙일보 1
+사건 1
+사회 1
+
+중앙일보 - 사건/사회 - 극지탐험　협회결...
+극지탐험　협회결성　체계적　연구 
+
+　지구상의　３대　극지라　불리는　남극·북극·에베레스트를　한번이라
+도　다녀와야　정회원으로　들어갈　수　있는　한국극지협회가　발족된다
+．윤석순（한·러시아극동협회　상임고문）씨과　홍석하（사람과　산　발
+행인）씨가　극지탐험과　이곳에서의　학술연구를　체계적　으로　해보자
+는데　뜻을　같이하고　협회결성에　나섰다．
+　이　협회는　지난　１６일　호텔신라에서　２０여명의　준비위원이　참
+석한　가운데　준비위원회를　가졌으며　내년　３월　정식　출범한다．
+　이　협회에는　３극오지를　모두　밟은　세계적인　산악인　허영호씨를
+비롯해　에베레스트를　올랐던　엄홍길·박영석·정승권씨　등　국내의　
+저명한　산악인들이　회원으로　참여할　것으로　보인다．
+　극지협회는　극지탐험가는　물론　학계·경제계인사들도　참가시킬　계
+획이다．　단순한　탐험차원을　넘어　지구상에　마지막　남은　자원의　
+보고인　극지에서의　연구활동도　하겠다는　의미다．
+　한국극지협회가　발족하면　우리　극지탐험이　체계화될　것으로　기대
+되고있다．협회는　극지관련자료를　데이터베이스로　축적해　오지탐험가
+들에게　제공할　계획이다．
+
+입력시간 95/11/17 20:55 KST
+ⓒ 중앙일보사 1995
+
+
+
+------------------------------
+File: turkish_utf8
+------------------------------
+Number of lines: 6
+Number of words: 55
+Number of characters: 400
+
+Ten most frequent words:
+hep 3
+hakan 2
+dört 2
+yukarda 1
+mavi 1
+gök 1
+asağıda 1
+yağız 1
+yer 1
+yaratıldıkta 1
+
+Yukarda mavi gök, asağıda yağız yer yaratıldıkta; ikisinin arasında insan
+oğlu yaratılmış. İnsan oğulları üzerine ecdadım Bumın hakan, İstemi hakan
+tahta oturmuş; oturarak Türk milletinin ülkesini, türesini, idare edivermiş,
+tanzim edivermis. Dört taraf hep düşman imiş. Asker sevk edip dört taraftaki
+kavmi hep (itaati altına) almış hep muti kılmış. Başlılara baş eğdirmiş,
+dizlilere diz çöktürmüş.
+
+
+
+------------------------------
+File: vietnamese_utf8
+------------------------------
+Number of lines: 11
+Number of words: 127
+Number of characters: 557
+
+Ten most frequent words:
+bần 11
+cũng 4
+không 4
+có 4
+giời 4
+là 3
+và 3
+thì 3
+quí 3
+một 2
+
+Bần chỉ là một anh nghèo xác, ngày ngày lang-thang 
+khắp xóm này qua xóm khác xin ăn. Quần áo 
+rách-mướp Bần cũng chả coi sao, chân không có giầy và 
+đầu cũng chẳng có mũ. Giời nắng hay giời mưa Bần 
+không bao giờ quan-tâm. Một ngưòi như Bần thì ai cũng 
+tưởng là không còn có gì là quí-vât nữa. Thế nhưng ta 
+nhầm vì Bần có cái quạt mo, Bần quí lắm. Bần quí và giữ 
+luôn không rời bỏ bao giờ. Giời nắng thì Bần che đầu, 
+giời mưa Bần cũng nhờ nó mà đỡ ướt. Muốn ngồi Bần 
+dùng làm chiếu và đêm đến các chú muỗi vo-ve thì Bần 
+dùng để dánh đuổi các chú ấy.
+
+
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Thu 12 Jul 2018 11:34:19 PM PDT

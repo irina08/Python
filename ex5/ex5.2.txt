@@ -1,0 +1,27 @@
+Script started on Tue 10 Jul 2018 08:43:12 PM PDT
+[igolovko@hills cs131A]$ ./ex5.2.py
+True is True.
+None is False.
+False is False.
+True is True.
+0 is False.
+ is False.
+8 is True.
+False is True.
+True is True.
+0.0 is True.
+[igolovko@hills cs131A]$ python3 ex5.2.py
+True is True.
+None is False.
+False is False.
+True is True.
+0 is False.
+ is False.
+8 is True.
+False is True.
+True is True.
+0.0 is True.
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Tue 10 Jul 2018 08:43:35 PM PDT

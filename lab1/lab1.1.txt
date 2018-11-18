@@ -1,0 +1,15 @@
+Script started on Sat 16 Jun 2018 11:05:29 PM PDT
+[igolovko@hills cs131A]$ ./lab1.1.py
+Hello, world!
+Today's time and date: Sat Jun 16 23:05:44 2018
+The Unix Epoch began 1529215544.526999 seconds ago
+The Epoch began Thu Jan  1 00:00:00 1970
+[igolovko@hills cs131A]$ python3 lab1.1.py
+Hello, world!
+Today's time and date: Sat Jun 16 23:05:59 2018
+The Unix Epoch began 1529215559.9320748 seconds ago
+The Epoch began Thu Jan  1 00:00:00 1970
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Sat 16 Jun 2018 11:06:05 PM PDT

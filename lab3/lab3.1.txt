@@ -1,0 +1,77 @@
+Script started on Sat 30 Jun 2018 12:25:24 PM PDT
+[igolovko@hills cs131A]$ ./lab3.1.py
+[1m More detailed outputs: [0m
+"Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned." [1m is a palindrome. [0m
+"Depardieu, go razz a rogue I draped." [1m is a palindrome. [0m
+"Desserts I stressed." [1m is a palindrome. [0m
+"Detartrated." [1m is a palindrome. [0m
+"Devo met a Mr., eh, DNA and her mate moved." [1m is a palindrome. [0m
+"Di as dad said." [1m is a palindrome. [0m
+"Did I draw Della too tall, Edward? I did?" [1m is a palindrome. [0m
+"Dior droid." [1m is a palindrome. [0m
+"DNA-land." [1m is a palindrome. [0m
+"Do geese see god?" [1m is a palindrome. [0m
+"Do good? I? No. Evil anon I deliver. I maim nine more hero-men in Saginaw, sanitary sword a-tuck, Carol, I. Lo! Rack, cut a drowsy rat in Aswan. I gas nine more hero-men in Miami. Reviled, I (Nona) live on. I do, O God." [1m is a palindrome. [0m
+""Do nine men interpret?" "Nine men," I nod." [1m is a palindrome. [0m
+"abracadabra!" [1m is not a palindrome. [0m
+"Mister, mister, on a see-saw with your sister." [1m is not a palindrome. [0m
+"Almost every sentence is NOT a palindrome! How unfair!" [1m is not a palindrome. [0m
+"{'Mister, mister, on a see-saw with your sister.', 'abracadabra!'}" [1m not a list. [0m
+
+[1m Less detailed outputs: [0m
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+"{'Mister, mister, on a see-saw with your sister.', 'abracadabra!'}" not a list.
+[igolovko@hills cs131A]$                                                                                 [igolovko@hills cs131A]$                                                                                  [igolovko@hills cs131A]$                                                                                   [igolovko@hills cs131A]$                                                                                  [igolovko@hills cs131A]$ python3 lab3.1.py
+[1m More detailed outputs: [0m
+"Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned." [1m is a palindrome. [0m
+"Depardieu, go razz a rogue I draped." [1m is a palindrome. [0m
+"Desserts I stressed." [1m is a palindrome. [0m
+"Detartrated." [1m is a palindrome. [0m
+"Devo met a Mr., eh, DNA and her mate moved." [1m is a palindrome. [0m
+"Di as dad said." [1m is a palindrome. [0m
+"Did I draw Della too tall, Edward? I did?" [1m is a palindrome. [0m
+"Dior droid." [1m is a palindrome. [0m
+"DNA-land." [1m is a palindrome. [0m
+"Do geese see god?" [1m is a palindrome. [0m
+"Do good? I? No. Evil anon I deliver. I maim nine more hero-men in Saginaw, sanitary sword a-tuck, Carol, I. Lo! Rack, cut a drowsy rat in Aswan. I gas nine more hero-men in Miami. Reviled, I (Nona) live on. I do, O God." [1m is a palindrome. [0m
+""Do nine men interpret?" "Nine men," I nod." [1m is a palindrome. [0m
+"abracadabra!" [1m is not a palindrome. [0m
+"Mister, mister, on a see-saw with your sister." [1m is not a palindrome. [0m
+"Almost every sentence is NOT a palindrome! How unfair!" [1m is not a palindrome. [0m
+"{'abracadabra!', 'Mister, mister, on a see-saw with your sister.'}" [1m not a list. [0m
+
+[1m Less detailed outputs: [0m
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+"{'abracadabra!', 'Mister, mister, on a see-saw with your sister.'}" not a list.
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Sat 30 Jun 2018 12:25:54 PM PDT

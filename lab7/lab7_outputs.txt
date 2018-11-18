@@ -1,0 +1,49 @@
+Script started on Tue 24 Jul 2018 10:27:23 PM PDT
+[igolovko@hills cs131a]$ ./lab7.1.py
+Opened database 'lab7.db' successfully
+Table 'products' created successfully.
+[igolovko@hills cs131a]$ ./lab7.2.py
+Records created successfully
+[igolovko@hills cs131a]$ ./lab7.3.py
+Data from table 'products' in database 'lab7.db':
+id   product_name                        description                    upc      unit_price
+1    Hurricane Jelly Beans               jelly beans                    abc123   1.00  
+2    Typhoon Model Boat                  plastic model boat             abc456   12.00 
+3    Supermarine Spitfire                plastic model airplane         bcd123   3.00  
+4    ENIAC                               model of first computer        bcd456   21.00 
+5    DOVE PROMISES                       variety mix chocolate candy    abc127   17.00 
+6    Skittles Starburst                  fruity candy variety box       abc130   19.00 
+7    Folgers Classic Roast Coffee        roast coffee                   abc240   8.00  
+8    Cafe Du Monde                       coffee and chicory             ccd130   17.00 
+9    1930's Classic Yacht Model          wooden model yacht             bcd755   135.00
+10   Authentic Models J-Yacht Rainbow    wooden model yacht             bcd890   309.00
+11   Harney & Sons Paris, Black Tea      black tea                      efs456   8.00  
+12   Lipton Black Tea Bags               black tea                      efs321   9.00  
+13   Boeing 747                          alloy metal airplane models    bcd175   18.00 
+14   United Airlines 777 airplane        toy airplane                   dgt400   11.00 
+[igolovko@hills cs131a]$ python3 lab7.1.py
+Opened database 'lab7.db' successfully
+Table 'products' created successfully.
+[igolovko@hills cs131a]$ python3 lab7.2.py
+Records created successfully
+[igolovko@hills cs131a]$ python3 lab7.3.py
+Data from table 'products' in database 'lab7.db':
+id   product_name                        description                    upc      unit_price
+1    Hurricane Jelly Beans               jelly beans                    abc123   1.00  
+2    Typhoon Model Boat                  plastic model boat             abc456   12.00 
+3    Supermarine Spitfire                plastic model airplane         bcd123   3.00  
+4    ENIAC                               model of first computer        bcd456   21.00 
+5    DOVE PROMISES                       variety mix chocolate candy    abc127   17.00 
+6    Skittles Starburst                  fruity candy variety box       abc130   19.00 
+7    Folgers Classic Roast Coffee        roast coffee                   abc240   8.00  
+8    Cafe Du Monde                       coffee and chicory             ccd130   17.00 
+9    1930's Classic Yacht Model          wooden model yacht             bcd755   135.00
+10   Authentic Models J-Yacht Rainbow    wooden model yacht             bcd890   309.00
+11   Harney & Sons Paris, Black Tea      black tea                      efs456   8.00  
+12   Lipton Black Tea Bags               black tea                      efs321   9.00  
+13   Boeing 747                          alloy metal airplane models    bcd175   18.00 
+14   United Airlines 777 airplane        toy airplane                   dgt400   11.00 
+[igolovko@hills cs131a]$ exit
+exit
+
+Script done on Tue 24 Jul 2018 10:29:32 PM PDT

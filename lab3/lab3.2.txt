@@ -1,0 +1,157 @@
+Script started on Sat 30 Jun 2018 09:48:54 PM PDT
+[igolovko@hills cs131A]$ ./lab3.2.py
+100 Most common words by frequency:
+    relativity (196)         theory (183)           body (156)      reference (150)           time (142) 
+         space (128)        general (117)         motion (110)         system (108)          light (105) 
+      velocity ( 97)            law ( 96)       relative ( 89)  gravitational ( 88)          field ( 80) 
+       respect ( 72)          point ( 71)      principle ( 71)         points ( 64)       distance ( 64) 
+     ordinates ( 63)             k1 ( 61)       ordinate ( 60)        special ( 59)             eq ( 56) 
+       section ( 55)      continuum ( 55)           laws ( 53)     embankment ( 52) transformation ( 52) 
+          file ( 52)       carriage ( 50)         bodies ( 50)    dimensional ( 50)        surface ( 49) 
+         means ( 49)      euclidean ( 49)          place ( 48)         result ( 48)       universe ( 47) 
+          rods ( 47)        lorentz ( 47)            gif ( 46)       position ( 45)      galileian ( 45) 
+         small ( 43)         manner ( 41)            sun ( 40)           case ( 40)      mechanics ( 40) 
+          part ( 40)          rigid ( 39)      equations ( 39)        project ( 39)           rest ( 38) 
+     gutenberg ( 38)         moving ( 37)         nature ( 37)       physical ( 37)          stars ( 36) 
+          line ( 36)  consideration ( 36)         events ( 34)           mass ( 34)         clocks ( 34) 
+     measuring ( 34)          ebook ( 34)           disc ( 33)            rod ( 33)           form ( 33) 
+      question ( 32)       geometry ( 31)           hold ( 30)        imagine ( 30)      direction ( 29) 
+    experience ( 29)        present ( 29) considerations ( 29)          world ( 29)        natural ( 28) 
+         sense ( 28)      classical ( 28)           fact ( 27)        railway ( 27)          earth ( 27) 
+         event ( 27)          lines ( 27)       equation ( 26)          train ( 26)    fundamental ( 26) 
+        number ( 26)       straight ( 26)         matter ( 25)         length ( 25)    propagation ( 25) 
+         chest ( 24)      statement ( 24)          order ( 24)     considered ( 24)         energy ( 23) 
+Palindromes:
+a     830 
+x     150 
+i     120 
+k     107 
+2     92  
+1     57  
+e     53  
+b     49  
+t     48  
+v     46  
+c     46  
+s     40  
+3     34  
+0     30  
+y     30  
+g     28  
+4     25  
+z     25  
+w     23  
+non   21  
+u     18  
+p     18  
+m     17  
+11    16  
+r     15  
+6     11  
+f     10  
+refer 9   
+5     7   
+did   7   
+22    7   
+7     6   
+ii    6   
+2002  6   
+l     5   
+iii   5   
+9     4   
+2t2   4   
+8     4   
+d     3   
+h     3   
+www   3   
+44    2   
+1991  1   
+99    1   
+00    1   
+n     1   
+33    1   
+o     1   
+pp    1   
+000   1   
+tenet 1   
+eye   1   
+[igolovko@hills cs131A]$ python3.  lab3.2.py
+100 Most common words by frequency:
+    relativity (196)         theory (183)           body (156)      reference (150)           time (142) 
+         space (128)        general (117)         motion (110)         system (108)          light (105) 
+      velocity ( 97)            law ( 96)       relative ( 89)  gravitational ( 88)          field ( 80) 
+       respect ( 72)          point ( 71)      principle ( 71)         points ( 64)       distance ( 64) 
+     ordinates ( 63)             k1 ( 61)       ordinate ( 60)        special ( 59)             eq ( 56) 
+       section ( 55)      continuum ( 55)           laws ( 53)     embankment ( 52) transformation ( 52) 
+          file ( 52)       carriage ( 50)         bodies ( 50)    dimensional ( 50)        surface ( 49) 
+         means ( 49)      euclidean ( 49)          place ( 48)         result ( 48)       universe ( 47) 
+          rods ( 47)        lorentz ( 47)            gif ( 46)       position ( 45)      galileian ( 45) 
+         small ( 43)         manner ( 41)            sun ( 40)           case ( 40)      mechanics ( 40) 
+          part ( 40)          rigid ( 39)      equations ( 39)        project ( 39)           rest ( 38) 
+     gutenberg ( 38)         moving ( 37)         nature ( 37)       physical ( 37)          stars ( 36) 
+          line ( 36)  consideration ( 36)         events ( 34)           mass ( 34)         clocks ( 34) 
+     measuring ( 34)          ebook ( 34)           disc ( 33)            rod ( 33)           form ( 33) 
+      question ( 32)       geometry ( 31)           hold ( 30)        imagine ( 30)      direction ( 29) 
+    experience ( 29)        present ( 29) considerations ( 29)          world ( 29)        natural ( 28) 
+         sense ( 28)      classical ( 28)           fact ( 27)        railway ( 27)          earth ( 27) 
+         event ( 27)          lines ( 27)       equation ( 26)          train ( 26)    fundamental ( 26) 
+        number ( 26)       straight ( 26)         matter ( 25)         length ( 25)    propagation ( 25) 
+         chest ( 24)      statement ( 24)          order ( 24)     considered ( 24)         energy ( 23) 
+Palindromes:
+a     830 
+x     150 
+i     120 
+k     107 
+2     92  
+1     57  
+e     53  
+b     49  
+t     48  
+v     46  
+c     46  
+s     40  
+3     34  
+0     30  
+y     30  
+g     28  
+4     25  
+z     25  
+w     23  
+non   21  
+u     18  
+p     18  
+m     17  
+11    16  
+r     15  
+6     11  
+f     10  
+refer 9   
+5     7   
+did   7   
+22    7   
+7     6   
+ii    6   
+2002  6   
+l     5   
+iii   5   
+9     4   
+2t2   4   
+8     4   
+d     3   
+h     3   
+www   3   
+44    2   
+1991  1   
+99    1   
+00    1   
+n     1   
+33    1   
+o     1   
+pp    1   
+000   1   
+tenet 1   
+eye   1   
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Sat 30 Jun 2018 09:49:16 PM PDT

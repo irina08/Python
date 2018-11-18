@@ -1,0 +1,73 @@
+Script started on Wed 27 Jun 2018 12:07:56 AM PDT
+[igolovko@hills week3_ex]$ ./control_flow.txt    .py
+The dictionary:
+{'k': 'K', 't': 'T', 'b': 'B', 'o': 'O', 'd': 'D', 'g': 'G', 'r': 'R', 'm': 'M', 'j': 'J', 'i': 'I', 'z': 'Z', 'c': 'C', 'f': 'F', 'w': 'W', 'x': 'X', 'q': 'Q', 'v': 'V', 'y': 'Y', 'h': 'H', 'n': 'N', 'a': 'A', 'p': 'P', 'u': 'U', 'l': 'L', 's': 'S', 'e': 'E'}
+
+Print every other letter in the sorted list of keys:
+a c e g i k m o q s u w y 
+
+ordinal	key	value
+ 97	a	a
+ 98	b	bbbbbbb
+ 99	c	ccccccccccc
+100	d	ddddd
+101	e	e
+102	f	fff
+103	g	g
+104	h	h
+105	i	iiiiiii
+106	j	j
+107	k	k
+108	l	lll
+109	m	m
+110	n	nnnnnnnnnnn
+111	o	ooo
+112	p	ppppppp
+113	q	q
+114	r	rrr
+115	s	sssss
+116	t	t
+117	u	uuu
+118	v	v
+119	w	wwwwwww
+120	x	xxxxx
+121	y	yyyyyyyyyyy
+122	z	z
+[igolovko@hills week3_ex]$ python3 control_flow.txt    .py
+The dictionary:
+{'q': 'Q', 'g': 'G', 'p': 'P', 'n': 'N', 'u': 'U', 'l': 'L', 'd': 'D', 'o': 'O', 'z': 'Z', 'f': 'F', 'v': 'V', 'h': 'H', 'e': 'E', 'r': 'R', 'w': 'W', 'i': 'I', 'y': 'Y', 'k': 'K', 'b': 'B', 't': 'T', 'm': 'M', 'c': 'C', 's': 'S', 'j': 'J', 'a': 'A', 'x': 'X'}
+
+Print every other letter in the sorted list of keys:
+a c e g i k m o q s u w y 
+
+ordinal	key	value
+ 97	a	a
+ 98	b	bbbbbbb
+ 99	c	ccccccccccc
+100	d	ddddd
+101	e	e
+102	f	fff
+103	g	g
+104	h	h
+105	i	iiiiiii
+106	j	j
+107	k	k
+108	l	lll
+109	m	m
+110	n	nnnnnnnnnnn
+111	o	ooo
+112	p	ppppppp
+113	q	q
+114	r	rrr
+115	s	sssss
+116	t	t
+117	u	uuu
+118	v	v
+119	w	wwwwwww
+120	x	xxxxx
+121	y	yyyyyyyyyyy
+122	z	z
+[igolovko@hills week3_ex]$ exit
+exit
+
+Script done on Wed 27 Jun 2018 12:08:18 AM PDT

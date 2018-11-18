@@ -1,0 +1,140 @@
+Script started on Sun 08 Jul 2018 01:27:16 AM PDT
+[igolovko@hills cs131A]$ ./shape.py
+--- START ---
+--
+Shape 1:  Shape, x:0, y:5
+Shape 2:  Shape, x:5, y:5
+--
+Shape 1:  Shape, x:1, y:6
+Shape 2:  Shape, x:6, y:6
+--
+Shape 1:  Shape, x:3, y:8
+Shape 2:  Shape, x:8, y:9
+--
+Shape 1:  Shape, x:6, y:11
+Shape 2:  Shape, x:11, y:15
+--
+Shape 1:  Shape, x:10, y:15
+Shape 2:  Shape, x:15, y:25
+--
+Shape 1:  Shape, x:15, y:20
+Shape 2:  Shape, x:20, y:40
+--
+Shape 1:  Shape, x:21, y:26
+Shape 2:  Shape, x:26, y:61
+--
+Shape 1:  Shape, x:28, y:33
+Shape 2:  Shape, x:33, y:89
+--
+Shape 1:  Shape, x:36, y:41
+Shape 2:  Shape, x:41, y:125
+--
+Shape 1:  Shape, x:45, y:50
+Shape 2:  Shape, x:50, y:170
+c1 location:  (45, 50)
+c2 location:  (50, 170)
+--- END ---
+[igolovko@hills cs131A]$ ./circle.py
+--- START ---
+--
+Circle  1:  Circle, x:0, y:0, radius: 5, area: 78.54
+Circle  2:  Circle, x:0, y:0, radius: 5, area: 78.54
+Collision:  True
+--
+Circle  1:  Circle, x:0, y:0, radius: 5, area: 78.54
+Circle  2:  Circle, x:0, y:0, radius: 5, area: 78.54
+Collision:  True
+--
+Circle  1:  Circle, x:1, y:1, radius: 5, area: 78.54
+Circle  2:  Circle, x:1, y:-1, radius: 5, area: 78.54
+Collision:  True
+--
+Circle  1:  Circle, x:3, y:4, radius: 5, area: 78.54
+Circle  2:  Circle, x:3, y:-4, radius: 5, area: 78.54
+Collision:  True
+--
+Circle  1:  Circle, x:6, y:10, radius: 5, area: 78.54
+Circle  2:  Circle, x:6, y:-10, radius: 5, area: 78.54
+Collision:  None
+--
+Circle  1:  Circle, x:10, y:20, radius: 5, area: 78.54
+Circle  2:  Circle, x:10, y:-20, radius: 5, area: 78.54
+Collision:  None
+--
+Circle  1:  Circle, x:15, y:35, radius: 5, area: 78.54
+Circle  2:  Circle, x:15, y:-35, radius: 5, area: 78.54
+Collision:  None
+--
+Circle  1:  Circle, x:21, y:56, radius: 5, area: 78.54
+Circle  2:  Circle, x:21, y:-56, radius: 5, area: 78.54
+Collision:  None
+--
+Circle  1:  Circle, x:28, y:84, radius: 5, area: 78.54
+Circle  2:  Circle, x:28, y:-84, radius: 5, area: 78.54
+Collision:  None
+--
+Circle  1:  Circle, x:36, y:120, radius: 5, area: 78.54
+Circle  2:  Circle, x:36, y:-120, radius: 5, area: 78.54
+Collision:  None
+c1 Final location:  (45, 165)
+c2 Final location:  (45, -165)
+Circle, x:45, y:165, radius: 5, area: 78.54
+Circle, x:45, y:-165, radius: 5, area: 78.54
+--- END ---
+[igolovko@hills cs131A]$ ./lab4.1.py
+Testing Circle class for area(), move(), location(), is_collision()
+############################
+Lab4.1.py
+############################
+
+Starting with two circles:
+Circle 1:  Circle, x:100, y:100, radius: 100, area: 31415.93
+Circle 2:  Circle, x:150, y:150, radius: 100, area: 31415.93
+
+------------------------------------------------------------
+|Num |    x1 |    y1 |    x2 |    y2 | Distance |Collision?|
+------------------------------------------------------------
+|  1 |   100 |   100 |   150 |   150 |    70.71 |      True|
+------------------------------------------------------------
+|  2 |   101 |   102 |   153 |   149 |    70.09 |      True|
+------------------------------------------------------------
+|  3 |   103 |   106 |   159 |   147 |    69.40 |      True|
+------------------------------------------------------------
+|  4 |   106 |   112 |   168 |   144 |    69.77 |      True|
+------------------------------------------------------------
+|  5 |   110 |   120 |   180 |   140 |    72.80 |      True|
+------------------------------------------------------------
+|  6 |   115 |   130 |   195 |   135 |    80.16 |      True|
+------------------------------------------------------------
+|  7 |   121 |   142 |   213 |   129 |    92.91 |      True|
+------------------------------------------------------------
+|  8 |   128 |   156 |   234 |   122 |   111.32 |      True|
+------------------------------------------------------------
+|  9 |   136 |   172 |   258 |   114 |   135.09 |      True|
+------------------------------------------------------------
+| 10 |   145 |   190 |   285 |   105 |   163.78 |      True|
+------------------------------------------------------------
+| 11 |   155 |   210 |   315 |    95 |   197.04 |      True|
+------------------------------------------------------------
+| 12 |   166 |   232 |   348 |    84 |   234.58 |      None|
+------------------------------------------------------------
+| 13 |   178 |   256 |   384 |    72 |   276.21 |      None|
+------------------------------------------------------------
+| 14 |   191 |   282 |   423 |    59 |   321.80 |      None|
+------------------------------------------------------------
+| 15 |   205 |   310 |   465 |    45 |   371.25 |      None|
+------------------------------------------------------------
+| 16 |   220 |   340 |   510 |    30 |   424.50 |      None|
+------------------------------------------------------------
+| 17 |   236 |   372 |   558 |    14 |   481.51 |      None|
+------------------------------------------------------------
+| 18 |   253 |   406 |   609 |    -3 |   542.23 |      None|
+------------------------------------------------------------
+| 19 |   271 |   442 |   663 |   -21 |   606.66 |      None|
+------------------------------------------------------------
+| 20 |   290 |   480 |   720 |   -40 |   674.76 |      None|
+------------------------------------------------------------
+[igolovko@hills cs131A]$ exit
+exit
+
+Script done on Sun 08 Jul 2018 01:27:49 AM PDT

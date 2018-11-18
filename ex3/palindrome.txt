@@ -1,0 +1,21 @@
+Script started on Wed 27 Jun 2018 08:58:09 PM PDT
+[igolovko@hills week3_exercises]$ ./palindrome.py
+
+Test palindrome() function with some palindromes.
+[True, True, True, True, True, True, True, True, True, True, True, True]
+
+Test palindrome() function with some non-palindromes.
+[False, False, False]
+
+[igolovko@hills week3_exercises]$ python3 palindrome.py
+
+Test palindrome() function with some palindromes.
+[True, True, True, True, True, True, True, True, True, True, True, True]
+
+Test palindrome() function with some non-palindromes.
+[False, False, False]
+
+[igolovko@hills week3_exercises]$ exit
+exit
+
+Script done on Wed 27 Jun 2018 08:58:28 PM PDT

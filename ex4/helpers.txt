@@ -1,0 +1,20 @@
+Script started on Sat 07 Jul 2018 11:58:33 AM PDT
+[igolovko@hills week4_exercises]$ ./helpers.txt  
+############################
+Testing...1, 2, 3...testing!
+############################
+
+A circle with a radius of 10 has a circumference of 62.83 units and an area of 314.16 square units.
+
+174.21 degree Fahrenheit is equal to 79.01 degree Celsius.
+-459.67 degree Fahrenheit is equal to -273.15 degree Celsius.
+-500.0 degree Fahrenheit is equal to None degree Celsius.
+
+37.5 degree Celsius is equal to 99.50 degree Fahrenheit.
+-273.15 degree Celsius is equal to -459.67 degree Fahrenheit.
+-275.0 degree Celsius is equal to None degree Fahrenheit.
+
+[igolovko@hills week4_exercises]$ exit
+exit
+
+Script done on Sat 07 Jul 2018 11:59:06 AM PDT

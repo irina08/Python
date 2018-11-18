@@ -1,0 +1,89 @@
+Script started on Tue 26 Jun 2018 10:29:08 PM PDT
+[igolovko@hills week3_ex]$ ./week3_dicts.py
+Create a list of lowercase alphabetical characters using string.ascii_lowercase method
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Create a list of lowercase alphabetical characters using a list comprehension, chr(), range()
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+The dictionary:
+{'a': 'A', 'g': 'G', 'j': 'J', 'w': 'W', 'c': 'C', 'y': 'Y', 'k': 'K', 'r': 'R', 'z': 'Z', 'i': 'I', 'n': 'N', 'e': 'E', 'q': 'Q', 'd': 'D', 'm': 'M', 'b': 'B', 'h': 'H', 'l': 'L', 'o': 'O', 's': 'S', 'u': 'U', 'f': 'F', 't': 'T', 'v': 'V', 'p': 'P', 'x': 'X'}
+The sorted keys:
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+The sorted values:
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+The current state of the dictionary:
+{'a': 'A', 'g': 'G', 'j': 'J', 'w': 'W', 'c': 'C', 'y': 'Y', 'k': 'K', 'r': 'R', 'z': 'Z', 'i': 'I', 'n': 'N', 'e': 'E', 'q': 'Q', 'd': 'D', 'm': 'M', 'b': 'B', 'h': 'H', 'l': 'L', 'o': 'O', 's': 'S', 'u': 'U', 'f': 'F', 't': 'T', 'v': 'V', 'p': 'P', 'x': 'X'}
+The dictionary reverse sorted and printed by value first way:
+{'z': 'Z', 'y': 'Y', 'x': 'X', 'w': 'W', 'v': 'V', 'u': 'U', 't': 'T', 's': 'S', 'r': 'R', 'q': 'Q', 'p': 'P', 'o': 'O', 'n': 'N', 'm': 'M', 'l': 'L', 'k': 'K', 'j': 'J', 'i': 'I', 'h': 'H', 'g': 'G', 'f': 'F', 'e': 'E', 'd': 'D', 'c': 'C', 'b': 'B', 'a': 'A'}
+The dictionary reverse sorted and printed by value second way:
+z : Z
+y : Y
+x : X
+w : W
+v : V
+u : U
+t : T
+s : S
+r : R
+q : Q
+p : P
+o : O
+n : N
+m : M
+l : L
+k : K
+j : J
+i : I
+h : H
+g : G
+f : F
+e : E
+d : D
+c : C
+b : B
+a : A
+[igolovko@hills week3_ex]$ python3 week3_dicts.py
+Create a list of lowercase alphabetical characters using string.ascii_lowercase method
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Create a list of lowercase alphabetical characters using a list comprehension, chr(), range()
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+The dictionary:
+{'j': 'J', 'h': 'H', 'k': 'K', 'n': 'N', 'r': 'R', 'd': 'D', 'p': 'P', 'v': 'V', 'o': 'O', 'e': 'E', 'u': 'U', 'l': 'L', 'a': 'A', 'b': 'B', 'm': 'M', 't': 'T', 'f': 'F', 'g': 'G', 'i': 'I', 'c': 'C', 'w': 'W', 's': 'S', 'z': 'Z', 'q': 'Q', 'x': 'X', 'y': 'Y'}
+The sorted keys:
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+The sorted values:
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+The current state of the dictionary:
+{'j': 'J', 'h': 'H', 'k': 'K', 'n': 'N', 'r': 'R', 'd': 'D', 'p': 'P', 'v': 'V', 'o': 'O', 'e': 'E', 'u': 'U', 'l': 'L', 'a': 'A', 'b': 'B', 'm': 'M', 't': 'T', 'f': 'F', 'g': 'G', 'i': 'I', 'c': 'C', 'w': 'W', 's': 'S', 'z': 'Z', 'q': 'Q', 'x': 'X', 'y': 'Y'}
+The dictionary reverse sorted and printed by value first way:
+{'z': 'Z', 'y': 'Y', 'x': 'X', 'w': 'W', 'v': 'V', 'u': 'U', 't': 'T', 's': 'S', 'r': 'R', 'q': 'Q', 'p': 'P', 'o': 'O', 'n': 'N', 'm': 'M', 'l': 'L', 'k': 'K', 'j': 'J', 'i': 'I', 'h': 'H', 'g': 'G', 'f': 'F', 'e': 'E', 'd': 'D', 'c': 'C', 'b': 'B', 'a': 'A'}
+The dictionary reverse sorted and printed by value second way:
+z : Z
+y : Y
+x : X
+w : W
+v : V
+u : U
+t : T
+s : S
+r : R
+q : Q
+p : P
+o : O
+n : N
+m : M
+l : L
+k : K
+j : J
+i : I
+h : H
+g : G
+f : F
+e : E
+d : D
+c : C
+b : B
+a : A
+[igolovko@hills week3_ex]$ exit
+exit
+
+Script done on Tue 26 Jun 2018 10:29:40 PM PDT

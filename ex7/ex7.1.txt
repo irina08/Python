@@ -1,0 +1,18 @@
+Script started on Tue 24 Jul 2018 07:58:55 PM PDT[igolovko@hills cs131a]$ echo "Student Irina Golovko"
+Student Irina Golovko
+[igolovko@hills cs131a]$ ./ex7.1.py
+1  Joe   Smith      red        dog     
+2  Mary  Jones      green      cat     
+3  Tom   Brown      blue       dog     
+4  John  Brown      black      parrot  
+5  Katty Hoppkins   violet     cat     
+[igolovko@hills cs131a]$ python3 ex7.1.py
+1  Joe   Smith      red        dog     
+2  Mary  Jones      green      cat     
+3  Tom   Brown      blue       dog     
+4  John  Brown      black      parrot  
+5  Katty Hoppkins   violet     cat     
+[igolovko@hills cs131a]$ exit
+exit
+
+Script done on Tue 24 Jul 2018 07:59:39 PM PDT

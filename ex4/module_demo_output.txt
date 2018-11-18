@@ -1,0 +1,23 @@
+Script started on Sat 07 Jul 2018 12:00:07 PM PDT
+[igolovko@hills week4_exercises]$ ./module_demo.py
+Testing functions from imported module 'helpers':
+Testing area() function:
+Area of a circle with radius of 20 is 1256.64 square units.
+
+Testing circ() function:
+A circle with a radius of 20 has a circumference of 125.66 units
+
+Testing f2c() function:
+100.0 degree Fahrenheit is equal to 37.78 degree Celsius.
+-459.67 degree Fahrenheit is equal to -273.15 degree Celsius.
+-520.0 degree Fahrenheit is equal to None degree Celsius.
+
+Testing c2f() function:
+10.5 degree Celsius is equal to 50.90 degree Fahrenheit.
+-273.15 degree Celsius is equal to -459.67 degree Fahrenheit.
+-280.0 degree Celsius is equal to None degree Fahrenheit.
+
+[igolovko@hills week4_exercises]$ exit
+exit
+
+Script done on Sat 07 Jul 2018 12:00:34 PM PDT
